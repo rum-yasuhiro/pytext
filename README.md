@@ -2,5 +2,5 @@
 
 Boot a python based texteditor
 ```
-$ python texteditor
+$ python texteditor.py
 ```
